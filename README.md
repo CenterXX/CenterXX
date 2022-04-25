@@ -28,6 +28,9 @@
  Christmas CTF 개최 (Normaltic & T3N4CI0US)          
 Basic CTF 2022 개최 (Latent_Gremlins & T3N4CI0US)
 
+### 📜 공부중
+ NFT
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCenterXX&count_bg=%23A712C6&title_bg=%237FD5E9&icon=ifood.svg&icon_color=%23E7E7E7&title=Center&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bmo33803@gmail.com)
 
