@@ -18,10 +18,14 @@
   ## 🏴 CTF     
 
 ### 참가  기록   
- Damncon CTF 5등 : 해외 CTF / 팀전     
- TFC CTF 2021 14등 : 해외 CTF / 팀전     
- nite CTF 2021 13등 : 해외 CTF / 팀전     
- Metared CTF 5th Stage 9등 : 해외 CTF / 팀전 
+ Damncon CTF 5등 : 해외 CTF / 팀전   
+ 
+ TFC CTF 2021 14등 : 해외 CTF / 팀전 
+ 
+ nite CTF 2021 13등 : 해외 CTF / 팀전
+ 
+ Metared CTF 5th Stage 9등 : 해외 CTF / 팀전
+ 
  RACTF(2022) 10등 : 해외 CTF / 팀전
  
  ### 🔥 주최     
