@@ -32,6 +32,7 @@
      
  Christmas CTF 개최 (Normaltic & T3N4CI0US)          
 Basic CTF 2022 개최 (Latent_Gremlins & T3N4CI0US)
+Escape CTF 2022 개최
 
 ### 📜 공부중
  NFT
