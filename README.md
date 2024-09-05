@@ -11,7 +11,7 @@
      <p align="center">
         Hello!! 
       <br>
-        Center라는 이름으로 활동중인 고등학생입니다!!
+      
     </p>
 </div>
   
