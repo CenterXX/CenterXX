@@ -57,6 +57,4 @@ Escape CTF 2022 개최
 
 ## Contact     
 bmo33803@naver.com 개인 업무용 이메일 (for personal business)     
- t3n4ci0us@naver.com [T3N4CI0US] 업무용 이메일 (for team business)
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
